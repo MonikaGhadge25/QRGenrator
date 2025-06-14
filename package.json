@@ -1,0 +1,19 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "good proj",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "asd"
+  },
+  "keywords": [
+    "projqr"
+  ],
+  "author": "pushkar patil",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.2.2",
+    "qr-image": "^3.2.0"
+  }
+}
